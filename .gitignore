@@ -22,3 +22,19 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Claude Code
+.claude/
+
+# Arquivos sensíveis — tokens, senhas e chaves
+.env
+.env.*
+.env.local
+.env.development
+.env.production
+*.token
+*.secret
+secrets.json
+secrets.yml
+secrets.yaml
+credentials.json
