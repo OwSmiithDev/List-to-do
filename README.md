@@ -75,7 +75,7 @@ Todos os dados ficam salvos no próprio navegador — sem necessidade de servido
 **1. Clone o repositório**
 
 ```bash
-git clone https://github.com/seu-usuario/taskflow.git
+git clone https://github.com/owsmiithdev/taskflow.git
 ```
 
 **2. Entre na pasta do projeto**
